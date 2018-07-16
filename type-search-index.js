@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cs3744.hw2","l":"HW2"},{"p":"cs3744.hw2","l":"HW2Controller"},{"p":"cs3744.hw2","l":"HW2Model"},{"p":"cs3744.hw2","l":"HW2Model.LightObject"},{"p":"cs3744.hw2","l":"HW2View"}]
