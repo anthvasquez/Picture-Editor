@@ -4,9 +4,13 @@ A basic picture editor written using javaFX.
 File format:
 
 Line 1: one value, picture name
+
 Line 2: two values, number of grid rows, number of grid columns
+
 Line 3: four values, background color components — red, green, blue, opacity — as percentages (0.0-100.0)
+
 Remaining lines: six values, inidividual light (grid cell) description — row index, column index, red, green, blue, opacity
+
 
 
 An example file is included. Please use this file as a starting point; there is no error checking for incompatible files.
