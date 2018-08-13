@@ -19,4 +19,4 @@ An example file is included. Please use this file as a starting point; there is 
 Known bugs:
 Using custom colors that have an opacity of less than 100% are sometimes drawn more opaque than intended.  This is can be reset by changing to erase mode and clicking anywhere on the canvas
 
-The cursor for paint mode and erase mode do not work on OSX operating systems.
+The cursor for paint mode and erase mode do not work on OSX.
